@@ -78,9 +78,7 @@ function Header() {
             Contact
           </Link>
           
-          {/* <Link to="/tournaments" className="hover:text-yellow-400 transition duration-200">
-            Tournaments
-          </Link> */}
+
 
           {/* Mute / Unmute Button */}
           <button
